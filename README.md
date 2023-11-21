@@ -1,4 +1,4 @@
-# EcoMap-E2E-Testing
+# Learning Playwright
 Using Playwright to create E2E testing!
 
 
